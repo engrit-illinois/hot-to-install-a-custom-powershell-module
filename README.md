@@ -18,11 +18,11 @@ For my modules:
 
 :warning: In order for the module to auto-load, it is important that the module file be located in a subdirectory of your modules directory, named after the module itself.  
 
-<! Step 1 for "Usage" section of most of my module READMEs:
+<!-- Step 1 for "Usage" section of most of my module READMEs:
 
 1. Download `.psm1` to your PowerShell [modules directory](https://github.com/engrit-illinois/how-to-install-a-custom-powershell-module).
 
-!>
+-->
 <br />
 
 For more information about modules see:  
