@@ -20,7 +20,7 @@ For my modules:
 
 <!-- Step 1 for "Usage" section of most of my module READMEs:
 
-1. Download `.psm1` to your PowerShell [modules directory](https://github.com/engrit-illinois/how-to-install-a-custom-powershell-module).
+1. Download `.psm1` to the appropriate subdirectory of your PowerShell [modules directory](https://github.com/engrit-illinois/how-to-install-a-custom-powershell-module).
 
 -->
 <br />
