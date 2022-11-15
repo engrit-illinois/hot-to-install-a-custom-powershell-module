@@ -7,8 +7,10 @@ PowerShell modules are very powerful and can be quite complex. However most cust
 Keep in mind that your profile and module directories have different paths depending on which version of PowerShell you're using.
 
 For my modules:
-  - Windows PowerShell 5.1: Download the module file to: `$HOME\Documents\WindowsPowerShell\Modules\<module-name>\<module-name>.psm1`.
-  - PowerShell 6/7+: Download the module file to: `$HOME\Documents\PowerShell\Modules\<module-name>\<module-name>.psm1`
+  - Windows PowerShell 5.1: Download the module file to:
+    - `$HOME\Documents\WindowsPowerShell\Modules\<module-name>\<module-name>.psm1`.
+  - PowerShell 6/7+: Download the module file to:
+    - `$HOME\Documents\PowerShell\Modules\<module-name>\<module-name>.psm1`
 
 For more information about modules see:
   - Windows PowerShell 5.1: https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_modules?view=powershell-5.1#how-to-install-a-module
