@@ -15,7 +15,8 @@ For my modules:
     - `$HOME\Documents\WindowsPowerShell\Modules\<module-name>\<module-name>.psm1`.
   - PowerShell 6/7+: Download the module file to:
     - `$HOME\Documents\PowerShell\Modules\<module-name>\<module-name>.psm1`
-Note: It is important that the module file be located in a subdirectory of your modules directory, named after the module itself.
+
+:warning: It is important that the module file be located in a subdirectory of your modules directory, named after the module itself.  
 <br />
 
 For more information about modules see:  
