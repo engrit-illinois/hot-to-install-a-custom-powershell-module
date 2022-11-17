@@ -10,7 +10,7 @@ Download my module files to `<module-directory>\<module-name>\<module-name>.psm1
 Create the path if it doesn't exist.  
 
 e.g. For [Get-MachineInfo](https://github.com/engrit-illinois/Get-MachineInfo) with PowerShell 7:  
-    - Download `Get-MachineInfo.psm1` to `$HOME\PowerShell\Modules\Get-MachineInfo\Get-MachineInfo.psm1`.  
+  - Download `Get-MachineInfo.psm1` to `$HOME\PowerShell\Modules\Get-MachineInfo\Get-MachineInfo.psm1`.  
 <br />
 
 # Details
