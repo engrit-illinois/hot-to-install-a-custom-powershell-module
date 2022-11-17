@@ -3,7 +3,7 @@ Brief instructions on installing a custom powershell module.
 <br />
 
 # TL;DR
-Download my module files to `<module-directory>\<module-name>\<module-name>.psm1`:
+Download my module files to `<module-directory>\<module-name>\<module-name>.psm1`:  
     - Windows PowerShell 5.1: `$HOME\Documents\WindowsPowerShell\Modules\<module-name>\<module-name>.psm1`
     - PowerShell 6/7+: `$HOME\Documents\PowerShell\Modules\<module-name>\<module-name>.psm1`
 
