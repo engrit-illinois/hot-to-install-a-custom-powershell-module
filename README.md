@@ -2,6 +2,11 @@
 Brief instructions on installing a custom powershell module.  
 <br />
 
+# TL;DR
+Download my module files to `<module-directory>\<module-name>\<module-name>.psm1`:
+  - Windows PowerShell 5.1: `$HOME\Documents\WindowsPowerShell\Modules\<module-name>\<module-name>.psm1`
+  - PowerShell 6/7+: `$HOME\Documents\PowerShell\Modules\<module-name>\<module-name>.psm1`
+
 # Details
 PowerShell modules are very powerful and can be quite complex. However most custom PowerShell modules I create simply contain a single standalone function (i.e. cmdlets). As such, to install them, it is sufficient to simply download the relevant module file (PSM1 file), and place it in a subdirectory of your PowerShell profile directory, where the subdirectory is named after the module. This will cause the PowerShell console to automatically load the module when starting, and to auto-load the module when calling it, even if the file wasn't present when starting the console.  
 
